@@ -1,2 +1,2 @@
 # flutter-samples
-Flutter Sample Code
+Dart Sample Code for cross platform Flutter apps
